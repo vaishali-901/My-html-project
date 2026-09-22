@@ -30,23 +30,3 @@
 
 
 // // camparison operator
-//  console.log("a != b", a != b);
-//  console.log("a === b", a===b);
-//  console.log("a !== b", a !==b);
-//   console.log("a > b", a > b);
-//  console.log("a >= b", a >= b);
-//  console.log("a < b", a < b);
-//  console.log("a <=  b", a<= b);
-
-//  logical AND
-let a = 6;
-let b = 5;
-
-let cont1 = a < b;
-let cont2 = a === 5;
-console.log("cont1 || = cont2 ", cont1  ||  cont2 );
-
-
-
-
-
